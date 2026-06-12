@@ -15,7 +15,7 @@
  *  along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  * This file incorporates work covered by the following copyright and
- * permission notice:
+ * permission notice:fe
  *
  *      Copyright 2013-2021 MultiMC Contributors
  *
